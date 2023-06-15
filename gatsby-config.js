@@ -10,7 +10,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://yihong.run/running',
+        url: 'https://www.cnblogs.com/Rosaany/',
       },
       {
         name: 'About',
